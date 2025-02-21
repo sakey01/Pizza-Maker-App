@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pizza App</string>
+
+    <string name="description">How to use the app:\nSimply tap on any of the ingredients below to add it to the pizza, then click \'Submit order\' to confirm. </string>
+</resources>
